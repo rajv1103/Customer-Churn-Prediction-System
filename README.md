@@ -25,8 +25,7 @@ The goal is not just prediction, but **decision support**.
 - 📊 **Churn Probability Prediction** using a trained Neural Network  
 - ⚠️ **Risk Classification** (High Risk / Low Risk customers)
 - 📈 **Feature Impact Visualization**
-  - Interactive Bar Chart (Plotly)
-  - Radar (Polar) Chart
+  - Interactive Bar Chart 
 - 🧠 **Heuristic Explainability** for churn drivers
 - 🎨 **Modern UI**
   - Centered layout
